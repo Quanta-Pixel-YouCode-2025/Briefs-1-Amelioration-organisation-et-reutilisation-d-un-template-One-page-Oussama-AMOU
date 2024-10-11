@@ -79,28 +79,38 @@
     </header>
     <!-- End Of Page Header -->
 
-<section class="inscription-container">
+<section class="inscription-container container">
     
     <h1 class="head-style">Create Your Account</h1>
     
-    <form>
+    <form action="#" method="post" class="form-styles">
         
         <label for="first name" class="label-style">First Name</label>
-        <input type="text" placeholder="Enter Your First Name" class="input-style" required>
+        <input  id="first name" type="text" placeholder="Enter Your First Name" class="input-style" required>
         
         <label for="last name" class="label-style">Last Name</label>
-        <input type="text" placeholder="Enter Your Last Name" class="input-style" required>
+        <input id="last name" type="text" placeholder="Enter Your Last Name" class="input-style" required>
 
         <label for="phone" class="label-style">Phone Number</label>
-        <input type="tel" placeholder="Enter Your Phone Number" class="input-style" required>
+        <input id="phone" type="tel" placeholder="Enter Your Phone Number" class="input-style" required>
 
         <label for="email" class="label-style">Email</label>
-        <input type="email" placeholder="Enter Your Email" class="input-style" required>
+        <input id="email" type="email" placeholder="Enter Your Email" class="input-style" required>
 
         <label for="date" class="label-style">Birth Date</label>
-        <input type="date" placeholder="Enter Your Birth Date" class="input-style" required>
+        <input id="date" type="date" placeholder="Enter Your Birth Date" class="input-style" required>
+         
+        <div class="icn-dvn">
+            <label class="rdio-style"  for="Male">Male</label>
+            <input class="icn-styles" type="radio" id="Male" name="Gndr" value="Male">
 
-        <input type="submit" value="Create Account" class="Sub-style">
+            <label class="rdio-style"  for="Female">Female</label>
+            <input class="icn-styles" type="radio" id="Female" name="Gndr" value="Female">
+        </div>
+        
+        <div>
+            <input type="submit" value="Create Account" class="Sub-style">
+        </div>
 
 
 
