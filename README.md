@@ -1,1 +1,1 @@
-
+Je tiens à vous faire part du progrès réalisés dans le cadre de la transformation du template Creative Studio One-Page en un modèle multi-pages. Premièrement, j'ai réorganisé la structure du site en créant des pages distinctes pour tous les rubriques du site. En suite, j'ai ajouté des nouveaux champs dans la page du contact. Ainsi, des ajustements ont été apportés à la page d'accueil tout en respectant le thème proposé. Finalement, un nouveau logo a été conçu, en cohérence avec le thème du site.
