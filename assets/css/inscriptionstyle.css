@@ -1,0 +1,38 @@
+/* 
+Creation du style de la page d'inscription 
+================================================
+*/
+
+.inscription-card{
+    width: 600px;
+    margin: 100px auto 80px auto;
+    border-radius: 0.2rem;
+    border: 1px solid #eaf0fc;
+    background: #fff;
+    box-shadow: 1px 3px 10px rgba(173, 181, 189, 0.4);
+    padding: 40px 0;
+
+}
+
+.prg-1{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+.inscription-style {
+    font-family: "Fira Sans", sans-serif;
+    width: 300px;
+    display: block;
+    font-size: 1rem;
+    padding-left: 15.2px;
+    padding-right: 15.2px;
+    padding-top: 11.2px;
+    padding-bottom: 11.2px;
+
+
+}
+
+
+
