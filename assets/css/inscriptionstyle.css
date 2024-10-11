@@ -75,6 +75,16 @@
 
 }
 
+.Sub-style:hover {
+    opacity: 0.7;
+    transition: 0.3s;
+}
+
+.Sub-style:active {
+    opacity: 0.4;
+}
+
+
 .icn-dvn{
     display:flex;
     align-items: center;
